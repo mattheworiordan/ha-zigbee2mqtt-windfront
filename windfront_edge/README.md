@@ -1,8 +1,0 @@
-# Home Assistant App: Zigbee2MQTT WindFront Edge
-
-![Supports aarch64 Architecture](https://img.shields.io/badge/aarch64-yes-green.svg)
-![Supports amd64 Architecture](https://img.shields.io/badge/amd64-yes-green.svg)
-
-Development version.
-
-https://github.com/Nerivec/zigbee2mqtt-windfront

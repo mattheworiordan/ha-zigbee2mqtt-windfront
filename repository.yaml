@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/apps/repository#repository-configuration
-name: "Home Assistant App: Zigbee2MQTT WindFront"
-url: "https://github.com/Nerivec/ha-zigbee2mqtt-windfront"
-maintainer: Nerivec
+name: "Zigbee2MQTT WindFront (api_tokens fork)"
+url: "https://github.com/mattheworiordan/ha-zigbee2mqtt-windfront"
+maintainer: mattheworiordan (fork of Nerivec/ha-zigbee2mqtt-windfront)
